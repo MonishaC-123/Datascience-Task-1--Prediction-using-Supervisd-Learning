@@ -1,2 +1,2 @@
 # Datascience-Task-1--Prediction-using-Supervisd-Learning
-Task done using Jupyter Notebook
+Task done for Data Science & Business Analytics internship @ 'The Sparks Foundation'
